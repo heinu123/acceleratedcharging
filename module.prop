@@ -1,0 +1,6 @@
+id=acceleratedcharging
+name=MIUI全机型充电加速(888系列可用)
+version=v15
+versionCode=202211142217
+author=黑弩
+description=默认温度墙46度要设置温度墙请修改模块目录下的config.ini文件
