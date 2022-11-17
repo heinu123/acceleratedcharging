@@ -21,11 +21,6 @@ var (
     start     int
     stop     int
 )
-func restartthermald() {
-    shell("echo >\"$(pidof mi_thermald)\">",true)
-    shell("setprop ctl.stop mi_thermald",true)
-    shell("setprop ctl.restart mi_thermald",true)
-}
 
 func shell(command string, su bool ) string { //调用shell执行命令(root权限)
     var output []byte
