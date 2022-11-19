@@ -1,7 +1,7 @@
 id=acceleratedcharging
 name=MIUI全机型充电加速
-version=v15
-versionCode=202211171307
+version=v16
+versionCode=202211192020
 author=黑弩
-description=默认温度墙46度要设置温度墙请修改模块目录下的config.ini文件
+description=默认温度墙45度要设置温度墙请修改模块目录下的config.ini文件
 updateJson=https://raw.githubusercontent.com/heinu123/acceleratedcharging/main/update.json
