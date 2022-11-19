@@ -1,6 +1,6 @@
 {
-	"version": "v16",
-	"versionCode": "11192120",
-	"zipUrl": "https://github.com/heinu123/acceleratedcharging/releases/latest/download/acceleratedcharging.zip",
-	"changelog": "https://raw.githubusercontent.com/heinu123/acceleratedcharging/main/update.md"
+  "versionCode": 11192120,
+  "version": "v16",
+  "zipUrl": "https://github.com/heinu123/acceleratedcharging/releases/latest/download/acceleratedcharging.zip",
+  "changelog": "https://raw.githubusercontent.com/heinu123/acceleratedcharging/main/update.md"
 }
