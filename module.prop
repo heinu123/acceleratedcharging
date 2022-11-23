@@ -1,7 +1,7 @@
 id=acceleratedcharging
 name=MIUI全机型充电加速
-version=v16
-versionCode=11192120
+version=v17
+versionCode=11232142
 author=黑弩
 description=MIUI全机型快充(兼容888系)，配置文件在模块目录下的config.ini文件
 updateJson=https://raw.githubusercontent.com/heinu123/acceleratedcharging/main/update.json
